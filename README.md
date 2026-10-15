@@ -27,6 +27,7 @@ Meu nome é Clara Mei, tenho 19 anos e sou natural de Hiratsuka, na província d
 [![Linkedin](https://img.shields.io/badge/Linkedin-291b3e?style=for-the-badge&logo=Linkedin&logoColor=fff)](https://www.linkedin.com/in/clara-mei-curvelo-valverde-9b1396305/?isSelfProfile=true)
 
 <div align="center" style="display:inline_block><br>
+   
 <img 
     alt="Python" 
     title="Python"
